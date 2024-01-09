@@ -7,7 +7,4 @@
 - ⚡ Fun fact: ...
 
 <!---
-ChreeeTzz/ChreeeTzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-vermiss eigentlich meine tochter weil ich auch alleine bin und neu anfangen wollte hab dich ganz doll lieb ich habe eine wohnung gefunden und geh morgen zum amt und schau ob ich sas bezahlt bekommen 
+ChreeeTzz/ChreeeTzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub 
